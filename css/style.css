@@ -1,0 +1,27 @@
+h1 {
+  font-size: 70px;
+  font-weight: 700;
+  font-family: Impact;
+  color: rgba(255, 0, 0, 0.76);
+  margin-block: 45px;
+}
+body {
+  text-align: center;
+}
+button {
+  display: inline-block;
+  width: 210px;
+  height: 80px;
+  font-size: 23px;
+  background-color: blue;
+  color: white;
+  transition: all 0.5s;
+}
+button:hover {
+  background-color: green;
+  font-size: 30px;
+}
+p {
+  font-size: 25px;
+  color: blueviolet;
+}
