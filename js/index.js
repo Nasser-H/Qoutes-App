@@ -72,6 +72,10 @@ var quotes = [
       "لا تعطي سرك لعزيز فكل عزيز لدية عزيزة ومن عزيز الي عزيزة سافر سرك بلا فيزا",
     quoteWriter: "محمد حافظ",
   },
+  {
+    quote:"Failure is the condiment that gives success its flavor.",
+    quoteWriter:"Mohaned Ahmed",
+  },
 ];
 var maxNumber = quotes.length;
 var arr = [];
